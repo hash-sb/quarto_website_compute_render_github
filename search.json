@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "website_github_render",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 10\n\n[1] 11"
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 100\n\n[1] 101"
   },
   {
     "objectID": "about.html",
