@@ -3,7 +3,7 @@ on:
     branches:
       - master
 
-name: Render and Publish
+name: Execute, Render and Publish
 
 # you need these permissions to publish to GitHub pages
 permissions:
